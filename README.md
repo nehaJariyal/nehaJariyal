@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Neha Kumari
 
-<!--
-**nehaJariyal/nehaJariyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with 2 years of experience.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Node.js
+- Express.js
+- MySQL
+- PostgreSQL
+- Docker
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Rust
+- Axum
+- SQLx
+- Distributed Systems
+- DSA
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/neha-jariyal
+ 
