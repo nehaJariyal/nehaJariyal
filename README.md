@@ -7,6 +7,8 @@ Backend Developer with 2 years of experience.
 - Express.js
 - MySQL
 - PostgreSQL
+- MongoDB
+- GraphQl
 - Docker
 - Git
 
